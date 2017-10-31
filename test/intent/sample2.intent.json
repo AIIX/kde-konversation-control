@@ -1,0 +1,7 @@
+{
+  "utterance": "quit",
+  "intent_type": "KonversationQuitKeywordIntent",
+  "intent": {
+    "InternalKonversationQuitKeyword": "konversation"
+  }
+}

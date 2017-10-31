@@ -1,0 +1,7 @@
+{
+  "utterance": "show",
+  "intent_type": "KonversationShowKeywordIntent",
+  "intent": {
+    "InternalKonversationShowKeyword": "konversation"
+  }
+}

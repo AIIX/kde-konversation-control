@@ -1,0 +1,7 @@
+{
+  "utterance": "manage konversation",
+  "intent_type": "KonversationOpenServListIntent",
+  "intent": {
+    "InternalKonversationOpenServListKeyword": "identity"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "utterance": "open konversation",
+  "intent_type": "KonversationOpenServListIntent",
+  "intent": {
+    "InternalKonversationQuitKeyword": "server list"
+  }
+}
